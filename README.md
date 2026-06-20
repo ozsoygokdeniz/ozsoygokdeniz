@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Gökdeniz%20Özsoy&fontSize=70&fontAlignY=35&desc=Android%20Developer%20|%20AI%20&%20Mobile%20Enthusiast&descSize=25&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Gökdeniz%20Özsoy&fontSize=70&fontAlignY=35&desc=Software%20Developer%20|%20AI%20&%20Data%20Science%20Enthusiast&descSize=25&descAlignY=55&animation=fadeIn" />
 </div>
 
-<h2 align="center">📱 Android Developer | Tech Enthusiast | UI Dreamer 💻</h2>
+<h2 align="center">💻 Software Developer | Tech Enthusiast | AI & Data Explorer 📊</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" align="right">
@@ -10,11 +10,11 @@
   <div align="left">
     <h3>👨‍💻 About Me</h3>
     <ul>
-      <li>🚀 Passionate <b>Android Developer</b> crafting beautiful, fluid, and scalable mobile experiences.</li>
-      <li>📱 Specialized in <b>Kotlin</b> & <b>Jetpack Compose</b> to turn creative UI/UX concepts into reality.</li>
-      <li>🎯 Deeply focused on <b>Clean Architecture</b>, <b>SOLID principles</b>, and robust <b>MVVM</b> design patterns.</li>
-      <li>💡 Actively exploring the intersection of <b>Mobile Apps, AI</b>, and data-driven solutions.</li>
-      <li>🌍 Curious engineering student blending clean code, technical architecture, and interactive storytelling.</li>
+      <li>🚀 Passionate <b>Software Developer</b> building smart, data-driven, and impactful applications.</li>
+      <li>🧠 Deeply interested in <b>Data Science</b>, <b>Machine Learning</b>, and <b>Artificial Intelligence</b>.</li>
+      <li>🎯 Focused on <b>Clean Architecture</b>, <b>SOLID principles</b>, and modern development workflows.</li>
+      <li>💡 Experienced in bridging the gap between <b>AI models</b> and user-centric interfaces.</li>
+      <li>🌍 Continuous learner who loves transforming complex data into meaningful software experiences.</li>
     </ul>
   </div>
 </div>
@@ -26,19 +26,15 @@
 
 <div align="center">
 
-  **Languages & Core Frameworks** <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  **Languages & Frameworks** <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  
-  **Architecture & Data** <img src="https://img.shields.io/badge/Clean_Architecture-0052CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQLite%20/%20Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-  **Tools & Integration** <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+  **Data, AI & Backend** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite%20/%20Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
@@ -49,19 +45,24 @@
 <div align="center">
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td width="33%" valign="top">
         <h3>🌱 BioBistro</h3>
-        <p>A comprehensive, health-focused nutrition and wellness platform. Built with a solid structural architecture and data-driven approach to track and optimize daily nutrition and dietary habits.</p>
-        <p><b>Key Focus:</b> Technical documentation, database schemas, clean state management.</p>
+        <p>Yüklenen PDF formatındaki kan tahlili raporlarını analiz eden, veri odaklı ve <b>Yapay Zeka destekli</b> kişiselleştirilmiş yemek tarifi veren yenilikçi bir sağlık platformu.</p>
+        <p><b>Odak:</b> AI Entegrasyonu, PDF Veri Çıkarımı, Akıllı Tavsiye Sistemleri.</p>
       </td>
-      <td width="50%" valign="top">
+      <td width="33%" valign="top">
         <h3>🎉 Happy-BirthYay</h3>
-        <p>A smart, interactive birthday reminder mobile application designed to ensure you never miss a special day. Features rich local data storage, background notification services, and seamless communication integration.</p>
-        <p><b>Key Focus:</b> Notification services, local storage (Room/SQLite), WhatsApp API integration.</p>
+        <p><b>React tabanlı</b>, kullanıcıların özel günleri kaçırmamasını sağlayan akıllı bir doğum günü hatırlatıcı uygulaması. Güçlü lokal veri yönetimi ve entegrasyonlar içerir.</p>
+        <p><b>Odak:</b> State Yönetimi, Lokal Depolama, Bildirim Servisleri.</p>
+      </td>
+      <td width="33%" valign="top">
+        <h3>🪙 SentiCrypt (Bitcoin Analizi)</h3>
+        <p>Kripto para piyasasını takip etmek için geliştirilmiş; <b>Web Scraping</b> ve <b>Twitter (X) duygu analizi (Sentiment Analysis)</b> üzerine yoğunlaşmış akıllı Bitcoin analiz aracı.</p>
+        <p><b>Odak:</b> Web Kazıma, Doğal Dil İşleme (NLP), Finansal Teknolojiler.</p>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td colspan="3" align="center">
         <a href="https://github.com/ozsoygokdeniz/BioBistro">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ozsoygokdeniz&repo=BioBistro&theme=dracula" />
         </a>
@@ -73,7 +74,7 @@
   </table>
 </div>
 
-> ✨ *"Every project I create starts as a simple idea — and grows into a well-architected, meaningful experience."*
+> ✨ *"Veriyi koda, kodu ise akıllı deneyimlere dönüştürmeyi seviyorum."*
 
 <hr style="border: 1px solid #00bfbf; width: 85%; margin: auto;">
 
@@ -92,17 +93,17 @@
 
 <h2 align="center">🌱 Currently Exploring</h2>
 
-- 🎨 **Advanced Jetpack Compose:** UI/UX animations and custom canvas layouts.
-- 🤖 **Mobile AI Integration:** Bringing lightweight machine learning models directly onto Android devices.
-- 🧩 **Modularization:** Splitting monolithic apps into scalable multi-module architectures.
+- 📊 **Data Science & ML:** Büyük veri analizi ve tahmine dayalı modelleme teknikleri.
+- 🤖 **Natural Language Processing (NLP):** Sosyal medya verileri üzerinden daha derin duygu analizi modelleri.
+- 🎨 **Advanced Mobile Frameworks:** Cross-platform ve native dünyasındaki modern mimari trendleri.
 
 <hr style="border: 1px solid #00bfbf; width: 85%; margin: auto;">
 
 <h2 align="center">🎧 Fun Facts</h2>
 
-- 🎵 Love building apps that combine clean backend structures, interactive design, and smooth animations.
-- 🎮 Enjoy diving into technical architecture challenges and creating clever solutions for daily engineering problems.
-- ✈️ Enthusiastic about coding globally, exploring new tech hubs, and building international collaborations.
+- 🎵 Algoritmalarla veri analizi yaparken arka planda derin odaklanma müzikleri dinlemeyi severim.
+- 🔍 İnternetteki dağınık verileri (Web Scraping ile) anlamlı veri setlerine dönüştürmek en büyük hobilerimden biri.
+- 🚀 Teknolojinin sınırlarını zorlayan, yapay zekayı günlük hayata entegre eden projeler geliştirmekten keyif alırım.
 
 <hr style="border: 1px solid #00bfbf; width: 85%; margin: auto;">
 
@@ -125,7 +126,7 @@
 
 <br>
 
-<p align="center">✨ Crafted with passion and clean code by <b>Gökdeniz Özsoy</b> ✨</p>
+<p align="center">✨ Crafted with passion and data by <b>Gökdeniz Özsoy</b> ✨</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=fadeIn" />
